@@ -479,6 +479,7 @@ function init() {
       break;
 
     case "/shows.html":
+    case "/shows":
       listPopularShows();
       break;
 
